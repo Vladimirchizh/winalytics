@@ -6,4 +6,4 @@ Google Colab for parcer: [![Open In Colab](https://colab.research.google.com/ass
 
 Google Colab for result analysis:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GsB-cIHPlxBuo44QQNxq-FIHyFYeb1IK)
 
-Initial Google Slides presentation(https://docs.google.com/presentation/d/1jrhBo5fh37AI0bWa5c5wWajz0TzdK0z6hz5CZf-1nmU/edit?usp=sharing)
+Initial Google Slides [presentation](https://docs.google.com/presentation/d/1jrhBo5fh37AI0bWa5c5wWajz0TzdK0z6hz5CZf-1nmU/edit?usp=sharing))
